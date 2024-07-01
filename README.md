@@ -19,6 +19,7 @@ Veriosn: 1.0
   
 # ⚠️ Warings ⚠️
 ## I created these for educational purposes, and we will not be held responsible for any damage caused to you by using them.
+## skid basically does not allow
 
 # Credit
 Rain436 - Ui, Fatures, Bugfix, Support, Design, Name
