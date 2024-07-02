@@ -19,10 +19,17 @@ Veriosn: 1.0
 
   # How To Use
   - Step 1 -
+    
   - Open account_data
   - Token.json Open
   - Paste Owned Bot Token
-  
+    
+  -  Step 2 -
+  -  Python 3.11.8 install
+  -  Open install.bat
+  -  wait..
+  -  open The Loader.bat
+    
 # ⚠️ Warings ⚠️
 ## I created these for educational purposes, and we will not be held responsible for any damage caused to you by using them.
 ## skid basically does not allow
